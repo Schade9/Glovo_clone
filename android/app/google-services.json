@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "208891187003",
+    "project_id": "glovo-clone",
+    "storage_bucket": "glovo-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208891187003:android:108bad2e09fe83c5abf11e",
+        "android_client_info": {
+          "package_name": "com.example.glovo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208891187003-1h3r1hgoeqhp2s8kdvfee3k8dkh9t6vn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.glovo",
+            "certificate_hash": "356b8e842bc459bc6e36838750277500dbe9528b"
+          }
+        },
+        {
+          "client_id": "208891187003-er0bsdm9jl9h29o8mlju9erc81lovt1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9ROwdX3nMgJnRYFh43kEsijijDDfdbDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208891187003-er0bsdm9jl9h29o8mlju9erc81lovt1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
