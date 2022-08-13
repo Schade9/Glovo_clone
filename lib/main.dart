@@ -34,7 +34,13 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Auth',
       theme: ThemeData(
         primaryColor: kPrimaryColor,
-        scaffoldBackgroundColor: Colors.white,
+        primarySwatch: Colors.blue,
+        fontFamily: "Gordita",
+        //scaffoldBackgroundColor: Colors.white,
+        scaffoldBackgroundColor: bgColor,
+        textTheme: const TextTheme(
+          bodyText2: TextStyle(color: Colors.black54),
+        ),
         elevatedButtonTheme: ElevatedButtonThemeData(
           style: ElevatedButton.styleFrom(
             elevation: 0,
